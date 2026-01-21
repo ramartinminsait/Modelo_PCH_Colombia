@@ -3,6 +3,3 @@ folium
 requests
 urllib3
 shapely
-pandas
-numpy
-math
