@@ -7,7 +7,7 @@ Mapa de Colombia - Filtros selectivos
 - Las demás capas solo se muestran visualmente (NO excluyen puntos)
 - CALCULA: Distancia a la capital MÁS CERCANA (puede ser de otro departamento)
 """
-
+import os
 import geopandas as gpd
 import folium
 from folium import plugins
