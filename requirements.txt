@@ -3,3 +3,5 @@ folium
 requests
 urllib3
 shapely
+os
+zipfile
